@@ -24,17 +24,17 @@ output_signal = np.cos(2*np.pi*fc + deviation_ratio*input_signal)
 
 plt.subplot(3,1,1)
 plt.title('Frequency Modulation')
-plt.plot(input_signal,'g')
+plt.plot(input_signal,color="purple")
 plt.ylabel('Amplitude')
 plt.xlabel('Input signal')
 
 plt.subplot(3,1,2)
-plt.plot(carrier_signal, 'r')
+plt.plot(carrier_signal, color="blue")
 plt.ylabel('Amplitude')
 plt.xlabel('Carrier signal')
 
 plt.subplot(3,1,3)
-plt.plot(output_signal, color="blue")
+plt.plot(output_signal, 'g')
 plt.ylabel('Amplitude')
 plt.xlabel('Output signal')
 
