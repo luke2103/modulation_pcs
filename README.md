@@ -53,7 +53,7 @@ Enter value of modulation index (0-1): 0.5
 Enter value of carrier frequency: 10000
 ```
 
-![](assets/AM_sin.png)
+![](images/AM_sin.png)
 
 #### Cosine signal as input
 
@@ -65,7 +65,7 @@ Enter value of modulation index (0-1): 0.8
 Enter value of carrier frequency: 100000
 ```
 
-![](assets/AM_cos.png)
+![](images/AM_cos.png)
 
 #### Audio file of Believer as input
 
@@ -77,7 +77,7 @@ Enter value of modulation index (0-1): 0.6
 Enter value of carrier frequency: 1000
 ```
 
-![](assets/AM_believer.png)
+![](images/AM_believer.png)
 
 # Frequency Modulation
 
@@ -102,7 +102,7 @@ Enter value of deviation ratio: 10
 Enter value of carrier frequency: 1000
 ```
 
-![](assets/FM_sin.png)
+![](images/FM_sin.png)
 
 
 #### Cosine signal as input
@@ -116,7 +116,7 @@ Enter value of deviation ratio: 10
 Enter value of carrier frequency: 1000000
 ```
 
-![](assets/FM_cos.png)
+![](images/FM_cos.png)
 
 
 #### Audio file of Believer as input
@@ -129,4 +129,4 @@ Enter value of deviation ratio: 10
 Enter value of carrier frequency: 10000
 ```
 
-![](assets/FM_believer.png)
+![](images/FM_believer.png)
