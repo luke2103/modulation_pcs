@@ -53,7 +53,7 @@ Enter value of modulation index (0-1): 0.9
 Enter value of carrier frequency: 10000
 ```
 
-![](images/AM_sin.png)
+![](AM_sin.png)
 
 #### Cosine signal as input
 
@@ -65,7 +65,7 @@ Enter value of modulation index (0-1): 0.4
 Enter value of carrier frequency: 100000
 ```
 
-![](images/AM_cos.png)
+![](AM_cos.png)
 
 #### Custom Audio file as input
 
@@ -77,7 +77,7 @@ Enter value of modulation index (0-1): 0.6
 Enter value of carrier frequency: 1000
 ```
 
-![](images/AM_custom.png)
+![](AM_custom.png)
 
 # Frequency Modulation
 
@@ -102,7 +102,7 @@ Enter value of deviation ratio: 10
 Enter value of carrier frequency: 1000
 ```
 
-![](images/FM_sin.png)
+![](FM_sin.png)
 
 
 #### Cosine signal as input
@@ -116,7 +116,7 @@ Enter value of deviation ratio: 10
 Enter value of carrier frequency: 1000000
 ```
 
-![](images/FM_cos.png)
+![](FM_cos.png)
 
 
 #### Custom audio file as input
@@ -129,4 +129,4 @@ Enter value of deviation ratio: 10
 Enter value of carrier frequency: 10000
 ```
 
-![](images/FM_custom.png)
+![](FM_custom.png)
