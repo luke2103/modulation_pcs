@@ -16,7 +16,7 @@ This repository contains solution to assignment for Principal of Communications 
   Press 1 for sin wave
   Press 2 for cosine wave
   Press 3 for using custom audio file (wav format)
-  Enter option: 1
+  Enter option: 2
   Enter number of elements: 1000
     ```
     
@@ -26,7 +26,7 @@ This repository contains solution to assignment for Principal of Communications 
   Press 2 for cosine wave
   Press 3 for using custom audio file (wav format)
   Enter option: 3
-  Enter audio file name: beleiver.wav
+  Enter audio file name: custom.wav
     ```
 
   This will generate a file called `data.txt` with float values on each line.
@@ -49,7 +49,7 @@ Output of python file
 
 ```bash
 Enter File Name: data.txt
-Enter value of modulation index (0-1): 0.5
+Enter value of modulation index (0-1): 0.9
 Enter value of carrier frequency: 10000
 ```
 
@@ -61,13 +61,13 @@ Output of python file
 
 ```bash
 Enter File Name: data.txt
-Enter value of modulation index (0-1): 0.8
+Enter value of modulation index (0-1): 0.4
 Enter value of carrier frequency: 100000
 ```
 
 ![](images/AM_cos.png)
 
-#### Audio file of Believer as input
+#### Custom Audio file as input
 
 Output of python file
 
@@ -77,7 +77,7 @@ Enter value of modulation index (0-1): 0.6
 Enter value of carrier frequency: 1000
 ```
 
-![](images/AM_believer.png)
+![](images/AM_custom.png)
 
 # Frequency Modulation
 
@@ -119,7 +119,7 @@ Enter value of carrier frequency: 1000000
 ![](images/FM_cos.png)
 
 
-#### Audio file of Believer as input
+#### Custom audio file as input
 
 Output of the python file
 
@@ -129,4 +129,4 @@ Enter value of deviation ratio: 10
 Enter value of carrier frequency: 10000
 ```
 
-![](images/FM_believer.png)
+![](images/FM_custom.png)
